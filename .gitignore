@@ -1,0 +1,21 @@
+# Java / build output
+*.class
+/classes/
+/classes_new/
+/jarroot/
+/jarroot_new/
+/out/
+/build/tmp/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Minecraft runtime noise
+crash-reports/
+logs/
